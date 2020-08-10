@@ -1,4 +1,5 @@
 # Machine Learning Assignments
+course-website-link: http://cse.iitkgp.ac.in/~saptarshi/courses/ml2020s/
 ### Assignment 1:
 Contains implementation for Linear Regression, Lasso Regression and Rigde Regression. Linear Regression and Ridge Regression are implemented using Gradient descent whereas Lasso Regression is implemented using Coordinate descent algorithm. 
 ### Assignment 2:
