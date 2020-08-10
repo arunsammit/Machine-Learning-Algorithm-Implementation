@@ -5,7 +5,8 @@ Contains implementation for Linear Regression, Lasso Regression and Rigde Regres
 ### Assignment 2:
 Contains implementation for Logistic Regression and ID3 decision tree algorithm for multi-class classification. After implementing both the algorithms 3-fold-cross validation is performed and mean accuracy, precision and recall (mean-macro accuracy, mean-macro precision and mean-macro recall in case of decision tree multi class classifier) are calculated and compared with the implementations of scikit-learn package.
 ### Assignment 3:
-1. Implemented Agglomerative Clustering algorithm for obtaining 8 clusters of documents from Religious text dataset. Used single linkage strategy to join clusters
-2. Implemented K-means clustering algorithm to obtin k=8 clusters.
-3. Reduced the counts of attribute to 100 using Principal Component Analysis (for this part used implementation of PCA from scikit-learn library.
-4. Again used Agglomerative Clustering algorithm and K-means algorithm to find the clusters using reduced set of features.
+1. Converted the Document Term Matrix (DTM) to TF-IDF matrix. Normalized the TF-IDF matrix by using L2 norm.
+2. Implemented Agglomerative Clustering algorithm for obtaining 8 clusters of documents from Religious text dataset. Used single linkage strategy to join clusters.
+3. Implemented K-means clustering algorithm to obtin k=8 clusters.(Used cosine similarity in both K-means and Agglomerative Clustering Algorithm). 
+4. Reduced the counts of attribute to 100 using Principal Component Analysis (for this part used implementation of PCA from scikit-learn library.
+5. Again used Agglomerative Clustering algorithm and K-means algorithm to find the clusters using reduced set of features.
