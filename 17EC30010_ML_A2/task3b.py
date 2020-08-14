@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 from collections import Counter
-from pickle import copy 
+import copy 
 #%% Loading the Relevant data
 winedata=pd.read_csv('./dataB.csv')
 data=winedata.to_numpy()
