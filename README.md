@@ -1,5 +1,5 @@
 # Machine Learning Algorithms Implementation
-This repository contains implemenstion of Machine Learning Algorithms like Linear Regression, Lasso Regression, Logistic Regression, ID3 Decision Tree algorithm, Agglomerative Clustering Algorithm and K-means Clustering Algorithm which are taught in Under-Graduate Machine Learning course at IIT Kharagpur
+This repository contains implemenstion of Machine Learning Algorithms like Linear Regression, Lasso Regression, Logistic Regression, ID3 Decision Tree algorithm, Agglomerative Clustering Algorithm, K-means Clustering Algorithm and L-Layer deep neural network for multi-class classification which are taught in Under-Graduate Machine Learning course at IIT Kharagpur
 ### Assignment 1:
 Contains implementation for Linear Regression, Lasso Regression and Rigde Regression. Linear Regression and Ridge Regression are implemented using Gradient descent whereas Lasso Regression is implemented using Coordinate descent algorithm. 
 ### Assignment 2:
