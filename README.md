@@ -10,3 +10,5 @@ Contains implementation for Logistic Regression and ID3 decision tree algorithm 
 3. Implemented K-means clustering algorithm to obtin k=8 clusters.(Used cosine similarity in both K-means and Agglomerative Clustering Algorithm). 
 4. Reduced the counts of attribute to 100 using Principal Component Analysis (for this part used implementation of PCA from scikit-learn library).
 5. Again used Agglomerative Clustering algorithm and K-means algorithm to find the clusters using reduced set of features.
+### Assignment 4:
+Contains the implementation for L-layer deep Neural Network for multi class classification. Optimisation algorithm used: Mini Batch Gradient Descent (SGD), Loss function used: categorical entropy loss.
