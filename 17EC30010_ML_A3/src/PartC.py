@@ -12,9 +12,9 @@ import numpy.linalg as la
 # In[51]:
 
 
-data1=pd.read_csv('data.csv',index_col=0)
+data1=pd.read_csv('../data/data.csv',index_col=0)
 data=data1.to_numpy()
-data2=pd.read_csv('data_reduced.csv',index_col=0)
+data2=pd.read_csv('../data/data_reduced.csv',index_col=0)
 data_reduced=data2.to_numpy()
 
 
